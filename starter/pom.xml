@@ -125,7 +125,7 @@
         </configuration>
       </plugin>
     </plugins>
+    <finalName>New</finalName>
   </build>
-
 
 </project>
