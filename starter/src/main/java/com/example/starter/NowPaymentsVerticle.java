@@ -32,6 +32,8 @@ public class NowPaymentsVerticle extends AbstractVerticle {
         startPromise.fail(http.cause());
       }
     });
+
+    
   }
 
   private void coinPrice(RoutingContext routingContext) {
