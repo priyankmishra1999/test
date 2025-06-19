@@ -1,0 +1,5 @@
+language: "java"
+name: "starter"
+appmap_dir: "tmp/appmap"
+packages:
+- path: "com.example.starter"
